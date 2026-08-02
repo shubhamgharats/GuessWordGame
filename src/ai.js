@@ -24,6 +24,8 @@ Rules:
 - Do not reveal any letters.
 - Do not mention word length.
 - Make it a useful clue.
+- Also mention the tense of the word.
+
 
 Return only the hint.
         `,
