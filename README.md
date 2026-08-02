@@ -2,7 +2,7 @@
 
 A Hangman-style word guessing game built while learning **React**. The game generates a random word, provides AI-powered hints, and challenges players to guess the word before running out of lives.
 
-**Live Demo:** https://your-vercel-link.vercel.app
+**Live Demo:** [https://your-vercel-link.vercel.app](https://guess-word-game-gamma.vercel.app/)
 
 ## What I Learned
 
@@ -53,4 +53,4 @@ npm run dev
 ## Links
 
 - **GitHub:** https://github.com/shubhamgharats/GuessWordGame
-- **Live Demo:** https://your-vercel-link.vercel.app
+- **Live Demo:** [https://your-vercel-link.vercel.app](https://guess-word-game-gamma.vercel.app/)
